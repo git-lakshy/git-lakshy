@@ -1,16 +1,30 @@
-## Hi there 👋
+# [Lakshy Choudhary]
 
-<!--
-**git-lakshy/git-lakshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Open Source Contributor | Web Developer | ML Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student developer from India with a passion for building elegant solutions and contributing to the open-source community. My journey started with a fascination for how things work, and now I'm building them myself.
+
+### What I'm Up To
+
+- 🤝 I’m open to collaborating on open-source web applications.
+- 📫 You can reach me via [Email](mailto:lakshy.smh@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/lakshy-choudhary).
+
+### My Tech Stack
+
+| Frontend      | Backend       | Databases | Tools & OS     |
+|---------------|---------------|-----------|----------------|
+| Next.js       | Node.js       | PostgreSQL| Docker         |
+| React         | Express.js    | MySQL     | Git & GitHub   |
+| TypeScript    |               | Prisma    | Arch Linux     |
+| Tailwind CSS  |               |           | Figma          |
+
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=git-lakshy&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" />
+
+</p>
+
+Check out my repositories below to see my work!
