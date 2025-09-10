@@ -26,6 +26,5 @@ I'm a student developer from India with a passion for building elegant solutions
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=git-lakshy&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" />
 
 </p>
----
 
 Check out my repositories below to see my work!
