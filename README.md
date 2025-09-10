@@ -17,7 +17,7 @@ I'm a student developer from India with a passion for building elegant solutions
 |---------------|---------------|-----------|----------------|
 | Next.js       | Node.js       | PostgreSQL| Docker         |
 | React         | Express.js    | MySQL     | Git & GitHub   |
-| TypeScript    |               | Prisma    | Arch Linux     |
+| TypeScript    |               | Prisma    | Windows & Linux     |
 | Tailwind CSS  |               |           | Figma          |
 
 ---
