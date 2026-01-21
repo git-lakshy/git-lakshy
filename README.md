@@ -8,18 +8,8 @@ I'm a student developer from India with a passion for building elegant solutions
 
 ### What I'm Up To
 
-- 🤝 I’m open to collaborating on open-source web applications.
+- 🤝 I’m open to collaborating on open-source projects.
 - 📫 You can reach me via [Email](mailto:lakshy.smh@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/lakshy-choudhary).
-
-### My Tech Stack
-
-| Frontend      | Backend       | Databases | Tools & OS     |
-|---------------|---------------|-----------|----------------|
-| Next.js       | Node.js       | PostgreSQL| Docker         |
-| React         | Express.js    | MySQL     | Git & GitHub   |
-| TypeScript    |               | Prisma    | Windows & Linux     |
-| Tailwind CSS  |               |           | Figma          |
-
 ---
 
 <p align="center">
