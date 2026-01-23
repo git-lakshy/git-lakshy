@@ -3,8 +3,7 @@
 Computer Science Student | Open Source Contributor | Web Developer | ML Enthusiast
 
 ---
-
-I'm a student developer from India with a passion for building elegant solutions and contributing to the open-source community. My journey started with a fascination for how things work, and now I'm building them myself.
+My journey started with a fascination for how things work, and now I'm building them myself.
 
 ### What I'm Up To
 
